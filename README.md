@@ -7,7 +7,9 @@ A recreation of the Toki Tori website at the time it was first released (as a Ga
 
 My only addition is a little favicon of Toki Tori sleeping, hope that's okay. (I also tweaked the code a bit, but this is not a change the average user will see or care to notice)
 
-If you download these files, open index.html and you'll have (nearly) the same experience as you would in 2001. I will likely not be hosting this, however.
+If you download these files, open index.html and you'll have (nearly) the same experience as you would in 2001.
+
+### UPDATE: Hosting this website on [Neocities](https://svrbrndmg.neocities.org). Bear with me as I have to put some files on an external site. (Neocities doesn't allow me to)
 
 If something isn't right, feel free to contribute or [email](mailto:svrbrndmg@proton.me) me about it.
 
