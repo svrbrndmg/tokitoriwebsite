@@ -1,7 +1,11 @@
 # Toki Tori (2001) Website Recreation
 A recreation of the Toki Tori website at the time it was first released (as a Game Boy Color title in 2001)
 
-My only addition is a little favicon of Toki Tori sleeping, hope that's okay.
+![image](https://github.com/user-attachments/assets/aeba5e7b-f9d7-4f3d-80b3-9f3a03d6d221)
+
+![image](https://github.com/user-attachments/assets/30064fc7-bf13-45a0-ab61-166224fbdd22)
+
+My only addition is a little favicon of Toki Tori sleeping, hope that's okay. (I also tweaked the code a bit, but this is not a change the average user will see or care to notice)
 
 If you download these files, open index.html and you'll have (nearly) the same experience as you would in 2001. I will likely not be hosting this, however.
 
