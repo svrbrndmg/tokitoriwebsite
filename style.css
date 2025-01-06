@@ -1,0 +1,38 @@
+body {
+	overflow-y: hidden;
+	margin: 0;
+	display: flex;
+	background-color: #011857;
+}
+
+#main {
+	width: 780px;
+	height: 100vw;
+	background-color: #0c4f95;
+	display: flex;
+	margin: auto;
+}
+
+#content {
+	position: fixed;
+	top: 27.75%;
+	background-image: url("bg_content.jpg");
+}
+
+.text {
+	font-family: verdana, sans-serif;
+	font-weight: 600;
+	font-size: 11px;
+	color: white;
+	line-height: 15px;
+	display: block;
+}
+
+.yellow {
+	color: #f9bb0b;
+}
+
+a {
+	color: #bbbbdd;
+	text-decoration: underline;
+}
